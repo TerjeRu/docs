@@ -6,9 +6,7 @@ nav_exclude: true
 
 This repository contains a curated, focused learning path for IT professionals moving into a security operations role. The guides are designed to build practical, hands-on skills, moving from core concepts to the day-to-day workflow of a defensive security analyst.
 
-[Get Started](./guides/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 }
-
----
+## [Get Started]({{ site.baseurl }}/guides/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 }
 
 ### How to Use This Path
 
