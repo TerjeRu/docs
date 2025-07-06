@@ -1,1 +1,3 @@
-.site-title { display: none; }
+.side-bar .site-header {
+  display: none;
+}
