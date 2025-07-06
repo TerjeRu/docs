@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 02: Core Investigator Tools
+title: "02: Core Investigator Tools"
 parent: The Guides
 nav_order: 2
 ---

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 03: Identity and Email Threat Analysis
+title: "03: Identity and Email Threat" Analysis
 parent: The Guides
 nav_order: 3
 ---

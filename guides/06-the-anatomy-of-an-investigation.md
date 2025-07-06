@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 06: The Anatomy of an Investigation
+title: "06: The Anatomy of an Investigation"
 parent: The Guides
 nav_order: 6
 ---
