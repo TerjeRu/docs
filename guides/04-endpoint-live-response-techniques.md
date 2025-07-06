@@ -3,6 +3,7 @@ layout: default
 title: 04: Endpoint Live Response Techniques
 parent: The Guides
 nav_order: 4
+permalink: /guides/04-endpoint-live-response-techniques/
 ---
 
 ## Part 1: Process and Service Analysis

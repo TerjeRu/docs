@@ -3,6 +3,7 @@ layout: default
 title: 02: Core Investigator Tools
 parent: The Guides
 nav_order: 2
+permalink: /guides/02-core-investigator-tools/
 ---
 
 ## Part 1: Network Traffic Analysis
@@ -116,7 +117,7 @@ nav_order: 2
 
 ### `guides/03-identity-and-email-threat-analysis.md`
 
-````markdown
+`````markdown
 ---
 layout: default
 title: 03: Identity and Email Threat Analysis
@@ -306,4 +307,8 @@ nav_order: 4
     - For system-wide services, investigate `systemd` unit files, typically in `/etc/systemd/system/`.
     - **Analyst Tip:** A common persistence trick on Linux is to add a malicious command to a user's shell startup script (e.g., `~/.bashrc`, `~/.zshrc`). Check these files for any strange or obfuscated lines.
 ````
-````
+`````
+
+```
+
+```

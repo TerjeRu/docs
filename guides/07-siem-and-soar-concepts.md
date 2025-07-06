@@ -3,6 +3,7 @@ layout: default
 title: 07: SIEM and SOAR Concepts
 parent: The Guides
 nav_order: 7
+permalink: /guides/07-siem-and-soar-concepts/
 ---
 
 ## Part 1: SIEM - The Brain of the SOC
