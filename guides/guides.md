@@ -3,7 +3,6 @@ layout: default
 title: The Guides
 nav_order: 2
 has_children: true
-back_to_top: false
 ---
 
 # The Learning Path Guides

@@ -1,3 +1,10 @@
+// Hides the "Back to top" link on the parent "The Guides" page,
+// as it's the only page that has the .child-nav element.
+.child-nav + .back-to-top {
+  display: none;
+}
+
+// Hides the site title from the sidebar navigation panel.
 .side-bar .site-header {
   display: none;
 }
