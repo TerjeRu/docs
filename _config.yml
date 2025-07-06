@@ -1,5 +1,5 @@
 # The title of your site
-title: SOC Analysis
+title: A Practical Learning Path for Security Analysts
 
 # The theme for your site
 theme: just-the-docs
@@ -12,6 +12,9 @@ baseurl: "/docs"
 
 # Enable search
 search_enabled: true
+
+# Load custom CSS to hide the site title in the nav bar
+custom_css: /assets/css/custom.css
 
 # Optional: Add a link to your repository in the navigation
 aux_links:
