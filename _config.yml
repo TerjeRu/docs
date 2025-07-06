@@ -13,9 +13,6 @@ baseurl: "/docs"
 # Enable search
 search_enabled: true
 
-# Load custom CSS to hide the site title in the nav bar
-custom_css: /assets/css/custom.css
-
 # Optional: Add a link to your repository in the navigation
 aux_links:
   "View on GitHub": "https://github.com/TerjeRu/docs"
