@@ -1,6 +1,6 @@
 # A Practical Learning Path for Security Analysts
 
-[![GitHub Pages](https://img.shields.io/badge/View%20Live%20Site-28a745?style=for-the-badge&logo=github)](https://terjeru.github.io/docs/guides/guides.html/)
+[![GitHub Pages](https://img.shields.io/badge/View%20Live%20Site-28a745?style=for-the-badge&logo=github)](https://terjeru.github.io/docs/)
 
 This repository contains a curated, focused learning path for IT professionals moving into a security operations role. The guides are designed to build practical, hands-on skills, moving from core concepts to the day-to-day workflow of a defensive security analyst.
 
