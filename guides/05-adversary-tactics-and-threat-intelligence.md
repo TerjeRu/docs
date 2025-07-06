@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 05: Adversary Tactics and Threat Intelligence
+parent: The Guides
 nav_order: 5
 ---
 

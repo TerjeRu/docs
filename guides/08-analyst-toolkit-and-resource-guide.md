@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 08: Analyst Toolkit and Resource Guide
+parent: The Guides
 nav_order: 8
 ---
 

@@ -1,48 +1,13 @@
 # The title of your site
 title: A Practical Learning Path for Security Analysts
 
-# A short description of your site
-description: A curated, focused learning path for IT professionals moving into a security operations role.
-
-# The theme for your site
-theme: # The title of your site
-title: A Practical Learning Path for Security Analysts
-
 # The theme for your site
 theme: just-the-docs
 
 # The URL for your site
 url: "https://TerjeRu.github.io"
 
-# The base URL for your site.
-baseurl: "/docs"
-
-# Enable search
-search_enabled: true
-
-# -----------------------------------------------------------------------------
-# Navigation
-#
-# This is the new, explicit navigation structure. This will force the site to
-# create a single top-level link called "The Guides" which points to the
-# collection of your guide pages.
-# -----------------------------------------------------------------------------
-nav_links:
-  - title: The Guides
-    permalink: /guides/
-    
-# Optional: Add a link to your repository in the navigation
-aux_links:
-  "View on GitHub": "https://github.com/TerjeRu/docs"
-
-# Another optional setting, adds a "back to top" link
-back_to_top: true
-back_to_top_text: "Back to top"just-the-docs
-
-# The URL for your site
-url: "https://TerjeRu.github.io"
-
-# The base URL for your site. This is CRITICAL for sites that are not at the root of a domain.
+# The base URL for your site. This is CRITICAL.
 baseurl: "/docs"
 
 # Enable search

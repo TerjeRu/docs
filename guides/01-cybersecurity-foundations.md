@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 01: Cybersecurity Foundations
+parent: The Guides
 nav_order: 1
 ---
 

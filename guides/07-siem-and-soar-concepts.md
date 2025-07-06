@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 07: SIEM and SOAR Concepts
+parent: The Guides
 nav_order: 7
 ---
 
