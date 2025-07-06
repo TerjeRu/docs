@@ -3,7 +3,7 @@ layout: default
 title: The Guides
 nav_order: 2
 has_children: true
-permalink: /guides
+permalink: /guides/
 ---
 
 # The Learning Path Guides
