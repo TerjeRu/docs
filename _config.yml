@@ -1,8 +1,25 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+# The title of your site
+title: TerjeRu's Docs
+
+# A short description of your site
+description: A test site using the Just the Docs theme.
+
+# The theme for your site
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+# The URL for your site. This is the most important line to change.
+# It should be in the format: https://<your-username>.github.io
+# If your repository is named something other than <your-username>.github.io,
+# then you need to add the repository name to the end of the URL.
+# For example, if your repository is named "my-docs", the url would be:
+# https://<your-username>.github.io/my-docs
+# In your case, it should be:
+url: "https://TerjeRu.github.io/docs"
 
+# Optional: Add a link to your repository in the navigation
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "View on GitHub": "https://github.com/TerjeRu/docs"
+
+# Another optional setting, adds a "back to top" link
+back_to_top: true
+back_to_top_text: "Back to top"
