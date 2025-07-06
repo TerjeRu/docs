@@ -1,9 +1,7 @@
 ---
 layout: default
 title: 08: Analyst Toolkit and Resource Guide
-parent: The Guides
 nav_order: 8
-permalink: /guides/08-analyst-toolkit-and-resource-guide/
 ---
 
 ### A Curated List for Continuous Learning

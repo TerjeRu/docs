@@ -1,9 +1,7 @@
 ---
 layout: default
 title: 02: Core Investigator Tools
-parent: The Guides
 nav_order: 2
-permalink: /guides/02-core-investigator-tools/
 ---
 
 ## Part 1: Network Traffic Analysis

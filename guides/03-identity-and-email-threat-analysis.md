@@ -1,9 +1,7 @@
 ---
 layout: default
 title: 03: Identity and Email Threat Analysis
-parent: The Guides
 nav_order: 3
-permalink: /guides/03-identity-and-email-threat-analysis/
 ---
 
 ## Part 1: Identity Threat Detection

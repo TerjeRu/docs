@@ -1,9 +1,7 @@
 ---
 layout: default
 title: 06: The Anatomy of an Investigation
-parent: The Guides
 nav_order: 6
-permalink: /guides/06-the-anatomy-of-an-investigation/
 ---
 
 # Part 1: The First 5 Minutes: Triage and Prioritization

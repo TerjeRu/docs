@@ -1,9 +1,7 @@
 ---
 layout: default
 title: 05: Adversary Tactics and Threat Intelligence
-parent: The Guides
 nav_order: 5
-permalink: /guides/05-adversary-tactics-and-threat-intelligence/
 ---
 
 ## Part 1: Operationalizing the MITRE ATT&CK® Framework

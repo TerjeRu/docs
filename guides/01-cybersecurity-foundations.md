@@ -1,9 +1,7 @@
 ---
 layout: default
 title: 01: Cybersecurity Foundations
-parent: The Guides
 nav_order: 1
-permalink: /guides/01-cybersecurity-foundations/
 ---
 
 ## Part 1: Network Analysis Fundamentals
