@@ -2,9 +2,3 @@
 .side-bar .site-header {
   display: none;
 }
-
-// A more specific selector to hide the "Back to top" link
-// ONLY on the page that contains the child navigation menu.
-nav.child-nav + footer.site-footer a#back-to-top {
-  display: none;
-}
