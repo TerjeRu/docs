@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "04: Endpoint Live Response" Techniques
+title: "04: Endpoint Live Response Techniques"
 parent: The Guides
 nav_order: 4
 ---
