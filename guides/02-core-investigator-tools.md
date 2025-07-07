@@ -60,7 +60,7 @@ nav_order: 2
     - `curl` is a powerful tool for interacting with URLs without a browser.
     - Use the `-I` flag to fetch only the HTTP headers of a site. This shows you the server type, redirects, and cookies without rendering any content.
       ```bash
-      curl -I [https://www.google.com](https://www.google.com)
+      curl -I https://www.google.com
       ```
     - **Analyst Tip:** Use `curl -L` to follow redirects. A site might use multiple redirects to hide its final malicious destination. `curl -I -L <suspicious_url>` will show you the entire redirect chain.
 
